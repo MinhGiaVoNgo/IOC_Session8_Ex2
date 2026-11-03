@@ -1,0 +1,10 @@
+com\example\library\dto\BookUpdateStockDTO$BookUpdateStockDTOBuilder.class
+com\example\library\dto\BookUpdateStockDTO.class
+com\example\library\repository\BookRepository.class
+com\example\library\service\BookServiceImpl.class
+com\example\library\controller\BookController.class
+com\example\library\entity\Book$BookBuilder.class
+com\example\library\exception\ResourceNotFoundException.class
+com\example\library\entity\Book.class
+com\example\library\service\BookService.class
+com\example\library\LibraryApplication.class

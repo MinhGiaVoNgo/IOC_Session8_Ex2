@@ -1,0 +1,8 @@
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\repository\BookRepository.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\entity\Book.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\controller\BookController.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\LibraryApplication.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\service\BookService.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\dto\BookUpdateStockDTO.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\service\BookServiceImpl.java
+M:\JAVA_BACKEND\BTVN_moi\SS08\Ex2\src\main\java\com\example\library\exception\ResourceNotFoundException.java
